@@ -1,2 +1,2 @@
 # Winter16
-# The server for the AWS is: http://52.90.38.44/
+# The server for the AWS is: http://52.32.26.104:3000/
